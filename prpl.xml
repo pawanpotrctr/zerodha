@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="constructors.pune"/>
+      <class name="testNG_disable_.sample"/>
+      <class name="batch_exicutionTestNG_disable.sample"/>
+      <class name="TestNG.emailable"/>
+      <class name="TestNG.prority"/>
+      <class name="tstng_flage.flags"/>
+      <class name="TestNG.emailablepp"/>
+      <class name="batch_exicutionTestNG_disable.sample2"/>
+      <class name="batch_exicutionTestNG_disable.Aassert"/>
+      <class name="Test_NG_3class.sample2"/>
+      <class name="Test_NG_advantage.Annotation"/>
+      <class name="batch_exicutionTestNG_disable.sample3"/>
+      <class name="tstng_flage.timeout"/>
+      <class name="Test_NG_3class.sample"/>
+      <class name="Testng_parallel.parallel"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
